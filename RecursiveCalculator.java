@@ -58,4 +58,5 @@ public class RecursiveCalculator {
     public static void main(String[] args) {
         calculator();
     }
+}
 
